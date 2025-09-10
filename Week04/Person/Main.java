@@ -3,5 +3,10 @@ public class Main {
         Worker test = new Worker("Andy", 35, "Librarian", 1000);
         
         System.out.println(test);
+        
+        test.setName("John");
+        
+        System.out.println(test);
     }
+
 }
