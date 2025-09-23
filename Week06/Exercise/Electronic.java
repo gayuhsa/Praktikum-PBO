@@ -1,4 +1,4 @@
-package polymorphism;
+package week06;
 
 public class Electronic extends Product {
     public String name;

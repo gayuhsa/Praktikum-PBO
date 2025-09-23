@@ -1,4 +1,7 @@
-package polymorphism;
+// https://stackoverflow.com/questions/11832001/why-access-specifiers-cant-be-used-for-variables-declared-inside-method-in-a-ja
+// https://community.monogame.net/t/direct-access-vs-setter-getter-performance/14546
+
+package week06;
 
 public class Main {
     public static void main(String[] args) {

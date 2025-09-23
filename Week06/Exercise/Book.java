@@ -1,4 +1,4 @@
-package polymorphism;
+package week06;
 
 public class Book extends Product {
     public String name;

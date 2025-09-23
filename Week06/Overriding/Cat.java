@@ -1,4 +1,4 @@
-package overriding;
+package week06;
 
 public class Cat extends Animal {
     @Override

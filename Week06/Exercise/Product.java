@@ -1,4 +1,4 @@
-package polymorphism;
+package week06;
 
 public abstract class Product {
     public String name;
